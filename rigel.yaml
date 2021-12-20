@@ -1,0 +1,18 @@
+scheme: "Rigel"
+author: "Alexander Keliris"
+base00: "00384d" # black
+base01: "9cf087" # brightGreen
+base02: "ffcc1b" # brightYellow
+base03: "517f8d" # brightBlack
+base04: "7eb2dd" # brightBlue
+base05: "77929e" # white
+base06: "fb94ff" # brightMagenta
+base07: "e6e6dc" # brightWhite
+base08: "c43061" # red
+base09: "ff5a67" # brightRed/orange
+base0A: "f08e48" # yellow
+base0B: "7fc06e" # green
+base0C: "00cccc" # cyan
+base0D: "1c8db2" # blue
+base0E: "c694ff" # magenta
+base0F: "00ffff" # brightCyan
